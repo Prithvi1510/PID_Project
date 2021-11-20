@@ -1,0 +1,1 @@
+{"name": "star", "Kp": 2.0, "Ki": 2.0, "Kd": 7.0, "setpoint": 2.05, "sample_time": 0, "_min_output": 0, "_max_output": 100, "_auto_mode": true}
